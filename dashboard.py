@@ -113,7 +113,7 @@ def tab1(values, daily_gains, dates, cumulative_returns):
 
     col4, col5 = st.columns([2, 1])
     col4.plotly_chart(fig1, use_container_width=True)
-    col5.plotly_chart(fig2, use_container_width=True, height=500)
+    plotly_chart(fig2, use_container_width=True, height=500)
 
 
 
