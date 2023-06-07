@@ -111,9 +111,10 @@ def tab1(values, daily_gains, dates, cumulative_returns):
     fig2.update_traces(textposition='inside', textinfo='percent+label')
     fig2.update_layout(showlegend=False)
 
-    col4, col5 = st.columns([2, 1])
+    col4 = st.columns([2, 1])[0]
     col4.plotly_chart(fig1, use_container_width=True)
-    plotly_chart(fig2, use_container_width=True, height=500)
+    st.plotly_chart(fig2, use_container_width=True, height=500)
+
 
 
 
