@@ -6,7 +6,6 @@ import yfinance as yf
 import plotly.express as px
 import plotly.graph_objects as go
 import requests
-import matplotlib.pyplot as plt
 import plotly.express as px
 
 def portfolio_weightings(subset):
