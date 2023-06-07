@@ -14,3 +14,6 @@ Sector Breakdown: Visualize the distribution of investments across different sec
 Performance Analytics: Analyze investment returns, risk metrics, and compare the portfolio's performance against relevant benchmarks. 
 
 This dashboard serves the UNC Impact Investing Club  to keep members up to date on the portfolio. IIC is the largest sustainability club on campus and this dashboard has been viewed by over 200 club members.
+
+
+Link to Dashboard: https://barrettb-iic-dashboard-dashboard-4y5hnp.streamlit.app/
